@@ -1,0 +1,31 @@
+# Public Policy
+
+## 📂 Project Assets
+- [Demo Video](YOUR_GOOGLE_DRIVE_LINK)
+- [PPT Presentation](YOUR_CANVA_OR_GOOGLE_DRIVE_LINK)
+
+## 🛠 Tools & Technologies
+- Python
+- Pandas, NumPy
+- Matplotlib / Plotly
+- Flask (or Django if applicable)
+- Any APIs or datasets used
+
+## 🌐 Hosted Project Link
+[Live Demo Link](YOUR_DEPLOYED_PROJECT_LINK)
+
+## 📝 Project Description
+Public Policy is a data-driven tool designed to analyze and visualize public sentiment and feedback regarding various government policies. It helps policymakers and researchers make informed decisions by identifying trends, concerns, and areas for improvement.
+# Public Sentiment Analysis
+
+This project is a Streamlit-based web app for analyzing public sentiment.  
+It uses a logistic regression model trained on Twitter data.  
+TF-IDF vectorization is applied to convert text into numerical features.  
+Users can input custom text or choose from sample comments.  
+The app classifies text as Positive, Neutral, or Negative.  
+Results are displayed with colored sentiment cards for better UX.  
+It includes a background image to enhance visual appeal.  
+Ideal for analyzing feedback on governance and public policies.
+ 
+git init
+
