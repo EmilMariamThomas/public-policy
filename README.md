@@ -9,3 +9,6 @@ Results are displayed with colored sentiment cards for better UX.
 It includes a background image to enhance visual appeal.  
 Ideal for analyzing feedback on governance and public policies.
  
+## 📽 Demo Video
+[Watch the demo](policy.webm)
+
